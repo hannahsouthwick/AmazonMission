@@ -3,7 +3,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AmazonMission" expanded="True" selected="True" />
+          <Node name="AmazonMission" expanded="True">
+            <Node name="AmazonMission" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
