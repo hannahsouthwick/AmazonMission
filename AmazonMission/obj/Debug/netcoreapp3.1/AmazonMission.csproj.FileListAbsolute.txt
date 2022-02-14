@@ -1,0 +1,8 @@
+/Users/hannahsouthwick/Documents/GitHub/AmazonMission/WaterProject2/obj/Debug/netcoreapp3.1/AmazonMission.csproj.AssemblyReference.cache
+/Users/hannahsouthwick/Documents/GitHub/AmazonMission/WaterProject2/obj/Debug/netcoreapp3.1/AmazonMission.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hannahsouthwick/Documents/GitHub/AmazonMission/WaterProject2/obj/Debug/netcoreapp3.1/AmazonMission.AssemblyInfoInputs.cache
+/Users/hannahsouthwick/Documents/GitHub/AmazonMission/WaterProject2/obj/Debug/netcoreapp3.1/AmazonMission.AssemblyInfo.cs
+/Users/hannahsouthwick/Documents/GitHub/AmazonMission/WaterProject2/obj/Debug/netcoreapp3.1/AmazonMission.csproj.CoreCompileInputs.cache
+/Users/hannahsouthwick/Documents/GitHub/AmazonMission/WaterProject2/obj/Debug/netcoreapp3.1/AmazonMission.MvcApplicationPartsAssemblyInfo.cache
+/Users/hannahsouthwick/Documents/GitHub/AmazonMission/WaterProject2/obj/Debug/netcoreapp3.1/AmazonMission.RazorAssemblyInfo.cache
+/Users/hannahsouthwick/Documents/GitHub/AmazonMission/WaterProject2/obj/Debug/netcoreapp3.1/AmazonMission.RazorAssemblyInfo.cs
